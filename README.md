@@ -3,7 +3,9 @@ Hi 👋 I am Thinh
 Data Shipper - Data Engineer
 ---------------------------------
 
-- 🌍  I'm based in Ho Chi Minh City, Vietnam
+- 🌍  I used to work at Grab Vietnam as a Data Analyst. I'm pursuing Master Data Science at SUTD, Singapore.
+
+- Check out my documents at: [https://takudodp.gitbook.io/dp](https://takudodp.gitbook.io/dp)
 
 - ✉️  You can contact me at [phthinhnguyen.biz@gmail.com](mailto:phthinhnguyen.biz@gmail.com)
 
